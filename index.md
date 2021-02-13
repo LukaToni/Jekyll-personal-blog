@@ -4,18 +4,17 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m John Doe.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      My website is dedicated to a blog. Articles of my experiences,
+      pictures of trips and travels will be published here;
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      **John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm),
+      Sweden. After graduating from The College of Visual Arts with a degree in Communication Design,
+      he worked for three small graphic design shops where he honed his design style and sensibility.
     actions:
       - label: Contact Me
         url: /contact
